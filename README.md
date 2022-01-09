@@ -1,4 +1,3 @@
-
 # Malina.js
 
 <img align="right" width="200" height="200" src="https://github.com/malinajs/malinajs/raw/master/malinajs2.png" />
