@@ -6,7 +6,7 @@
 Malina.js builds your web-application to use it **without framework on frontend side**. Therefore your web-app becomes thinner and faster, and the application itself consist of **vanilla JavaScript**, look at [examples](https://malinajs.github.io/repl/). [TodoMVC example](https://malina-todomvc.surge.sh) **2.7kb** (gzipped) and [source code](https://github.com/malinajs/todomvc).
 
 For documentation about Malinajs, please visit [our website](https://malinajs.github.io/docs/).  
-Also, please join our community on [Discord](https://discord.gg/ScDhhNCk6N).
+Also, please join our community on [Discord](https://discord.gg/ScDhhNCk6N) or [Telegram](https://t.me/malinajs).
 
 ### tools
 
